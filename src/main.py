@@ -2,7 +2,7 @@ from database import connect_db
 
 def main():
 
-    # Connect to the Oracle database
+    # Connect to the Oracle database 수정
     conn = connect_db()
 
     # Close the connection when done
